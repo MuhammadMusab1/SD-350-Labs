@@ -1,0 +1,15 @@
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\bin\Debug\net6.0\Lab1StrategyPattern.exe
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\bin\Debug\net6.0\Lab1StrategyPattern.deps.json
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\bin\Debug\net6.0\Lab1StrategyPattern.runtimeconfig.json
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\bin\Debug\net6.0\Lab1StrategyPattern.dll
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\bin\Debug\net6.0\Lab1StrategyPattern.pdb
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\obj\Debug\net6.0\Lab1StrategyPattern.csproj.AssemblyReference.cache
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\obj\Debug\net6.0\Lab1StrategyPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\obj\Debug\net6.0\Lab1StrategyPattern.AssemblyInfoInputs.cache
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\obj\Debug\net6.0\Lab1StrategyPattern.AssemblyInfo.cs
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\obj\Debug\net6.0\Lab1StrategyPattern.csproj.CoreCompileInputs.cache
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\obj\Debug\net6.0\Lab1StrategyPattern.dll
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\obj\Debug\net6.0\refint\Lab1StrategyPattern.dll
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\obj\Debug\net6.0\Lab1StrategyPattern.pdb
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\obj\Debug\net6.0\Lab1StrategyPattern.genruntimeconfig.cache
+C:\Users\Muhammad Musab\Desktop\Lab1StrategyPattern\Lab1StrategyPattern\obj\Debug\net6.0\ref\Lab1StrategyPattern.dll
